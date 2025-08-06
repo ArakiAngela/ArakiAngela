@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Angela Araki ✨
+# Angela Araki  <img src="https://github.com/ArakiAngela/ArakiAngela/blob/main/giphy.gif" width="35" />
+
 Em transição para Tech | Atendimento + Dados | LGPD, IA, Excel & Power BI em construção
 
 <p>
