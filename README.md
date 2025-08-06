@@ -28,11 +28,4 @@ Recentemente, venho me aprofundando em temas como Inteligência Artificial, LGPD
 
 Estou em busca de oportunidades para aplicar esse conhecimento técnico em contextos práticos, contribuir com soluções baseadas em dados e continuar crescendo profissionalmente na área de tecnologia, especialmente com foco em dados, automação e suporte digital.
 
-# Caminhos que estou explorando
-- Análise de dados com foco em Power BI, Excel, Tableau e indicadores estratégicos.  
-- Estudos aprofundados sobre a LGPD e sua aplicação no contexto corporativo.  
-- Inteligência Artificial como ferramenta de produtividade e apoio à decisão.  
-- Automatização de processos e organização digital com tecnologia acessível.  
-- Construção de projetos pessoais para aprendizado prático e contínuo.
-
 > Quero entender, aplicar e crescer na área de tecnologia.
